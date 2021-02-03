@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning Java 
+- 🤔 I’m looking for help with concurrency programming
+- 💬 Ask me about how to loaf on the job（kidding ^_^）
